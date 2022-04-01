@@ -6,7 +6,7 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'Jigsaw de Sergi Doblado',
-    'siteDescription' => 'Benvigut al Jigsaw de Sergi Doblado',
+    'siteDescription' => 'Benvingut al Jigsaw de Sergi Doblado',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => env('DOCSEARCH_KEY'),
